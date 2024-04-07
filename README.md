@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Nafis Sadik Khan, currently working at the Marine and Coastal Geodesy Group at the University of Houston. My primary interest is understanding land deformation using various satellite and geodetic techniques, including InSAR and GNSS.
+
 <!--
 **nafissk/nafissk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
